@@ -9,6 +9,18 @@ Cada AprilTag activa una acción específica, permitiendo construir rutas o comp
 
 Somos un equipo llamado Hyperion conformodad por  **Cinthya Nogales Badillo** ,**Evelyn Gamboa Mata**, estudiante de **Ingeniería en Ciencia de Datos y Matemáticas** y **Ingenieria en Mecatronica** en el Tecnológico de Monterrey, Campus Ciudad de México.  
 
+#  ¿Por qué hice este código?
+
+El objetivo del proyecto es crear un sistema donde un dron **DJI Tello** pueda:
+
+- Navegar **solo**, sin control manual.  
+- Leer **AprilTags** (códigos visuales parecidos a QR).  
+- Ejecutar acciones específicas según el ID del tag.  
+- Avanzar de manera continua hasta encontrar el siguiente tag.  
+
+En pocas palabras:  
+**Hice este código para que el dron pueda seguir instrucciones visuales y moverse de forma autónoma usando visión artificial.**
+
 ##  Acciones asignadas por ID
 
 | ID | Acción |
